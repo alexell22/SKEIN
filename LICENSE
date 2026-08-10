@@ -1,0 +1,25 @@
+Copyright (c) 2026 Alexandra Elsakova. All rights reserved.
+
+This source code is published for reference, demonstration, and personal-use
+purposes only.
+
+You MAY:
+  - View and read the source code.
+  - Run the app for your own personal, non-commercial use.
+
+You MAY NOT, without the prior written permission of the copyright holder:
+  - Sell, rent, sublicense, or otherwise commercially exploit it.
+
+All rights not expressly granted above are reserved by the copyright holder.
+The copyright holder retains the exclusive right to relicense, commercialise,
+or otherwise use this work in any way.
+
+Third-party components loaded at runtime (not included in this repository)
+remain under their own licenses: IBM Plex fonts (SIL Open Font License 1.1)
+and pdf.js (Apache License 2.0).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
